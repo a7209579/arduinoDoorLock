@@ -4,3 +4,4 @@
 碼來解鎖，使用者必須輸入長度為四的數宇密碼，輸入時 LCD 會以星號提示使用者輸入多少個數字。
 ![image](https://github.com/a7209579/arduino-door-lock/blob/main/images/tinkercad.png)
 ## 系統流程
+![image](https://github.com/a7209579/arduino-door-lock/blob/main/images/flowchart.jpg)
