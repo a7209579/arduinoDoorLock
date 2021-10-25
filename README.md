@@ -12,3 +12,5 @@
 ## 系統流程
 當使用者輸入密碼正確時，LCD顯示“Door UnLock”表示解鎖，同時綠色LED燈發亮，伺服馬達角度會從90度的狀態順時針轉回 0度解鎖，綠色LED燈熄燈後，伺服馬達會重新上鎖。當使用者輸入密碼錯誤時，LCD會顯示”Password: Incorrect"表示密碼錯誤，紅色LED燈亮燈，伺服馬達維持上鎖狀態不運作，等到紅色LED燈熄燈後，LCD重新顯示?Enter Password to UnLock” 請使用者重新輸入密碼。
 ![image](https://github.com/a7209579/arduino-door-lock/blob/main/images/flowchart.jpg)
+## 操作影片
+https://youtu.be/P7UaSKhD5_g
